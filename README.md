@@ -16,3 +16,5 @@ Ao longo de diversos eventos online do canal **Coding Night** a estamos abordand
 [**Optimize Azure costs with data analysis in Power BI / Otimizar os custos do Azure com a análise de dados no Power BI**](https://learn.microsoft.com/en-us/training/modules/optimize-costs-data-analysis-powerbi/?WT.mc_id=cloudskillschallenge_f7e67fcc-7c01-4128-b3d6-08379b742683) | [**YouTube - Live 7**](https://www.youtube.com/watch?v=VNghXYp0nTg)
 
 [**Get started with Azure Advisor / Introdução ao Azure Advisor**](https://learn.microsoft.com/en-us/training/modules/get-started-azure-advisor/?WT.mc_id=cloudskillschallenge_f7e67fcc-7c01-4128-b3d6-08379b742683) | [**YouTube - Live 8**](https://www.youtube.com/watch?v=sZHy7S3zoik)
+
+[**Explore licensing, pricing, and support for SAP on Azure virtual machines**](https://learn.microsoft.com/en-us/training/modules/explore-licensing-pricing-support/?WT.mc_id=cloudskillschallenge_f7e67fcc-7c01-4128-b3d6-08379b742683) | [**YouTube - Live 9**](https://www.youtube.com/watch?v=AnnyfvjTeQw)
